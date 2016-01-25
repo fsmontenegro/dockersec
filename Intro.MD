@@ -1,5 +1,4 @@
-# Introduction
-
+## Introduction
 
 ## Why are we here?
 
@@ -9,12 +8,9 @@ Google Trends: "Microservices"
 
 
 
-
 Google Trends:  "Docker"
 
 ![](http://fsmontenegro.github.io/dockersec/images/DockerGT.png)
-
-
 
 
 
@@ -35,6 +31,7 @@ Google Trends: "Kubernetes"
 Martin Fowler ( http://martinfowler.com/articles/microservice-trade-offs.html)
 
 
+
 ## Significant benefits
 * Support CI/CD practices
 * Easier to achieve scale
@@ -44,6 +41,8 @@ Martin Fowler ( http://martinfowler.com/articles/microservice-trade-offs.html)
 
 ## DataDog Container Survey
 
+(https://www.datadoghq.com/docker-adoption/)
+
 Two schools of thought:
 * Containers as up&down microservices
 * Containers as "lightweight servers" that stay up
@@ -51,9 +50,9 @@ Two schools of thought:
 
 ![](http://fsmontenegro.github.io/dockersec/images/ddContainerTypes.png)
 
-![](http://fsmontenegro.github.io/dockersec/images/ddContainerLife.png)
 
-(https://www.datadoghq.com/docker-adoption/)
+
+![](http://fsmontenegro.github.io/dockersec/images/ddContainerLife.png)
 
 
 
@@ -76,7 +75,6 @@ Two schools of thought:
   + Economics (EMH, Behaviour)
   + Data Science (Coursera)
 
-***
 ![](http://fsmontenegro.github.io/dockersec/images/fmcat.png)
 
 
