@@ -9,15 +9,17 @@
       Atomic
       CoreOS
 
+
+
 ## Securing Containers from Malicious App
-    read-only FS
+    read-only FileSystems
       came in Docker 1.5
       specify logs in another volume or remote
     seccomp
       secure computing mode
       filter system calls
-      example
-        tcp.json
+      VERY nice!
+
 
 ## Securing Docker daemon and running Containers
     secure Docker API and socket
@@ -30,6 +32,8 @@
       proper location for certs
         /etc/default/docker
 
+
+
 ## Securing the Hosts from Docker
     User-namespaces
       root in container is mapped to non-root user
@@ -38,26 +42,32 @@
     SELinux/AppArmor Profiles
       Jessie Frazelle - bane
 
+
+
 ## Security for Docker Images
 
     Registry Access
       make sure regular and mirror access via https
         no --insecure-registry
-    Getting trustworthy images
+    **Getting trustworthy images**
       trusted sources - docker hub, private registry
       building secure - See docker site TBD
-      Docker Content Trust
-        docker 1.8
-        requires signed images
-          root@debian-jessie:~# export DOCKER_CONTENT_TRUST=1
+      Docker Content Trust (1.8)
+          root@debian:~# export DOCKER_CONTENT_TRUST=1
         "only signed content in production"
-  #### Project Nautilus
+
+
+
+## Project Nautilus
       Docker securing images on DockerHub
       Image security
       Component inventory/license management
       Image optimization
       Basic functional testing
-  #### Clair by CoreOS
+
+
+
+## Clair by CoreOS
       Security scanning of images
         https://coreos.com/blog/vulnerability-analysis-for-containers/
       Available on Quay
