@@ -27,15 +27,16 @@
 
 ## People and Resources of Note
 
-* [@mattnowina](https://twitter.com/mattnowina)
-* [@diogomonica](https://twitter.com/diogomonica)
-* [@nigelpoulton](https://twitter.com/nigelpoulton)
-* [@mierdin](https://twitter.com/mierdin)
-* [@jaybeale](https://twitter.com/jaybeale)
+<small>
+* [@mattnowina](https://twitter.com/mattnowina) - AWS architect, tons of great Docker links
+* [@diogomonica](https://twitter.com/diogomonica) - Docker Security
+* [@nigelpoulton](https://twitter.com/nigelpoulton) - Pluralsight course
+* [@mierdin](https://twitter.com/mierdin) - Packet Pushers podcast
+* [@jaybeale](https://twitter.com/jaybeale) - BSidesNYC 2016 preso
 
 Also
 * [@dockercon](https://twitter.com/dockercon)
-* [@kubecon](https://twitter.com/kubecon)
+* [@kubeconio](https://twitter.com/kubeconio)
 
 Websites:
 *  http://thenewstack.io/
@@ -43,3 +44,4 @@ Websites:
 
 Others:
   RunC
+</small>
