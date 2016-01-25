@@ -22,10 +22,11 @@
   + no agents on containers
   + watch for outbound traffic
   + keep up to date (news!)
+  + rethink approach ("cattle, not pets")
 
 
 
-## People and Resources of Note
+## Resources!
 
 <small>
 * [@mattnowina](https://twitter.com/mattnowina) - AWS architect, tons of great Docker links
