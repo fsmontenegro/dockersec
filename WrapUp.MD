@@ -17,26 +17,29 @@
   + free-for-all (unrestricted containers in Prod)
   + treating containers as servers
 
-* Recommendations
+* Recommendations for Security
   + **Don't try to stop it!!!**
   + no agents on containers
   + watch for outbound traffic
   + keep up to date (news!)
 
-* People and Resources of Note
 
-On Twitter:
-    @mattnowina
-    @diogomonica
-    @nigelpoulton
-    @dockercon
-    @kubecon
-    @jaybeale
-    @mierdin
+
+## People and Resources of Note
+
+* [@mattnowina](https://twitter.com/mattnowina)
+* [@diogomonica](https://twitter.com/diogomonica)
+* [@nigelpoulton](https://twitter.com/nigelpoulton)
+* [@mierdin](https://twitter.com/mierdin)
+* [@jaybeale](https://twitter.com/jaybeale)
+
+Also
+* [@dockercon](https://twitter.com/dockercon)
+* [@kubecon](https://twitter.com/kubecon)
 
 Websites:
-    http://thenewstack.io/
-    http://packetpushers.net/datanauts-podcast/
+*  http://thenewstack.io/
+*  http://packetpushers.net/datanauts-podcast/
 
 Others:
   RunC
