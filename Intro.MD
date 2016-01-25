@@ -1,4 +1,7 @@
-## Introduction
+# Docker Security
+
+
+
 
 ## Why are we here?
 
@@ -48,6 +51,7 @@ Two schools of thought:
 * Containers as "lightweight servers" that stay up
 
 
+
 ![](http://fsmontenegro.github.io/dockersec/images/ddContainerTypes.png)
 
 
@@ -65,7 +69,7 @@ Two schools of thought:
 
 [@fsmontenegro](https://twitter.com/fsmontenegro)
 
-* Sales Engineer
+* Sales Engineer | ![](http://fsmontenegro.github.io/dockersec/images/fmcat.png)
   + Network Security (Micro-segmentation)
 * CompSci ’94
 * Greying hair
@@ -75,7 +79,8 @@ Two schools of thought:
   + Economics (EMH, Behaviour)
   + Data Science (Coursera)
 
-![](http://fsmontenegro.github.io/dockersec/images/fmcat.png)
+
+
 
 
 ## About us - Ricardo

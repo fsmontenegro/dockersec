@@ -1,5 +1,7 @@
 # Docker Security
 
+
+
 ## Securing the Host itself
 * Harden OS
 * Harden kernel?
