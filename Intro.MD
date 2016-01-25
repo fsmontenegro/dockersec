@@ -9,17 +9,17 @@ Google Trends: "Microservices"
 
 Google Trends:  "Docker"
 
-![](images/DockerGT.png)
+![](http://fsmontenegro.github.io/dockersec/images/DockerGT.png)
 
 
 Google Trends: "Kubernetes"
 
-![](images/kubernetesGT.png)
+![](http://fsmontenegro.github.io/dockersec/images/kubernetesGT.png)
 
 
 
 ## Microservices?
-![](images/microservicesF5.png)
+![](http://fsmontenegro.github.io/dockersec/images/microservicesF5.png)
 
 *Many development teams have found the microservices architectural style to be a superior approach to a monolithic architecture. But other teams have found them to be a productivity-sapping burden. Like any architectural style, microservices bring costs and benefits. To make a sensible choice you have to understand these and apply them to your specific context.*
 
@@ -40,16 +40,16 @@ Two schools of thought:
 * Containers as "lightweight servers" that stay up
 
 
-![](images/ddContainerTypes.png)
+![](http://fsmontenegro.github.io/dockersec/images/ddContainerTypes.png)
 
-![](images/ddContainerLife.png)
+![](http://fsmontenegro.github.io/dockersec/images/ddContainerLife.png)
 
 (https://www.datadoghq.com/docker-adoption/)
 
 
 
 ## What we found
-![](images/DockerIceberg.jpg)
+![](http://fsmontenegro.github.io/dockersec/images/DockerIceberg.jpg)
 
 
 
@@ -68,7 +68,7 @@ Two schools of thought:
   + Data Science (Coursera)
 
 ***
-![](images/fmcat.png)
+![](http://fsmontenegro.github.io/dockersec/images/fmcat.png)
 
 
 ## About us - Ricardo
