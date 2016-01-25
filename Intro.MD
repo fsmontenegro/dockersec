@@ -3,11 +3,9 @@
 
 ## Why are we here?
 
-We want to help!
-
 Google Trends: "Microservices"
 
-![](images/microservicesGT.png)
+![](http://fsmontenegro.github.io/dockersec/images/microservicesGT.png)
 
 Google Trends:  "Docker"
 
