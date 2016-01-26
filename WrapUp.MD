@@ -35,29 +35,29 @@
 Last few weeks of news:
 
 * [Docker buys Unikernel](http://techcrunch.com/2016/01/21/docker-acquires-unikernel-systems-as-it-looks-beyond-containers/)
-* Arista announces Container support in EOS
+* [Arista announces Container support in EOS](https://www.sdxcentral.com/articles/news/arista-outfits-eos-for-containers-hybrid-clouds/2016/01/)
 * [Citrix supports NetScaler as Container](https://www.citrix.com/blogs/2015/12/15/early-christmas-present-a-big-surprise-in-a-small-container/)
-* Amazon announces Docker 1.9 support
+* [Amazon announces Docker 1.9 support](https://aws.amazon.com/about-aws/whats-new/2016/01/amazon-ec2-container-service-supports-docker-1-9/)
 
 
 
 ### Resources!
 
 <small>
-* [@mattnowina](https://twitter.com/mattnowina) - AWS architect, tons of great Docker links
-* [@diogomonica](https://twitter.com/diogomonica) - Docker Security
-* [@nigelpoulton](https://twitter.com/nigelpoulton) - Pluralsight course
-* [@mierdin](https://twitter.com/mierdin) - KeepingItClassless, TechFieldDay
-* [@blinken_lichten](https://twitter.com/blinken_lichten) - DevOps
-* [@jaybeale](https://twitter.com/jaybeale) - Shmoocon 2016 preso
-
-* [@dockercon](https://twitter.com/dockercon)
-* [@kubeconio](https://twitter.com/kubeconio)
+Twitterfolk:
+  * [@mattnowina](https://twitter.com/mattnowina) - AWS architect, tons of great Docker links
+  * [@diogomonica](https://twitter.com/diogomonica) - Docker Security
+  * [@nigelpoulton](https://twitter.com/nigelpoulton) - Pluralsight course
+  * [@mierdin](https://twitter.com/mierdin) - KeepingItClassless, TechFieldDay
+  * [@blinken_lichten](https://twitter.com/blinken_lichten) - DevOps
+  * [@jaybeale](https://twitter.com/jaybeale) - Shmoocon 2016 preso
+  * [@dockercon](https://twitter.com/dockercon) - Docker confab
+  * [@kubeconio](https://twitter.com/kubeconio) - Kubernetes confab
 
 Websites:
-* [TheNewStack](http://thenewstack.io/)
-* [Packet Pushers](http://packetpushers.net/datanauts-podcast/)
+  * [TheNewStack](http://thenewstack.io/)
+  * [Packet Pushers](http://packetpushers.net/datanauts-podcast/)
 
 Others:
-* [RunC](https://runc.io/)
+  * [RunC](https://runc.io/)
 </small>
