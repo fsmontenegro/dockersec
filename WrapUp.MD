@@ -36,6 +36,7 @@ Last ~2 weeks of news:
 * Amazon announces Docker 1.9 support
 
 
+
 ### Resources!
 
 * [@mattnowina](https://twitter.com/mattnowina) - AWS architect, tons of great Docker links

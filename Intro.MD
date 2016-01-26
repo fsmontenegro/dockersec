@@ -84,7 +84,7 @@ Two schools of thought:
 
 <table>
 <tr>
-<td>
+<td valign="top">
 <ul>
 <li>Sales Engineer
 <ul>
