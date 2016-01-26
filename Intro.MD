@@ -72,7 +72,7 @@ Two schools of thought:
 <img src="http://fsmontenegro.github.io/dockersec/images/Dwarrowdelf_LoTR.png">
 
 
-<img src="http://fsmontenegro.github.io/dockersec/images/DockerIceberg.jpg"  height="500" alt="Iceberg">
+<img src="http://fsmontenegro.github.io/dockersec/images/DockerIceberg.jpg"  height="700" alt="Iceberg">
 
 
 
@@ -100,8 +100,13 @@ Two schools of thought:
 </ul>
 </td>
 
+<<<<<<< Updated upstream
 <td valign="top">
 <img src="http://fsmontenegro.github.io/dockersec/images/fmcat.png" width=300 height=400>
+=======
+<td style="vertical-align: top;">
+<img src="http://fsmontenegro.github.io/dockersec/images/fmcat.png" height="400">
+>>>>>>> Stashed changes
 </td>
 </tr>
 </table>
@@ -111,3 +116,30 @@ Two schools of thought:
 ## About us - Ricardo
 
 [@ricardogerardi](https://twitter.com/ricardogerardi)
+
+<table>
+<tr>
+<td style="vertical-align: top;">
+<ul>
+<li>Senior IT Consultant
+<ul>
+<li>Network Management/Monitoring
+</ul>
+<li>IBM Netcool Certified
+<li>Uncertified father (2x)
+</ul>
+
+<ul>
+<li>Interests
+<ul>
+<li>Linux/UNIX
+<li>Emerging technologies
+<li>Data Science
+</ul>
+</td>
+
+<td style="vertical-align: top;">
+<img src="http://fsmontenegro.github.io/dockersec/images/tux_darkvador.png" height="400">
+</td>
+</tr>
+</table>
