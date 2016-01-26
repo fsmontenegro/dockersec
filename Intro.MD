@@ -1,10 +1,9 @@
 # Docker Security
 
 <small>
+
 Fernando Montenegro, CISSP - [@fsmontenegro](https://twitter.com/fsmontenegro)
-
 Ricardo Gerardi - [@ricardogerardi](https://twitter.com/ricardogerardi)
-
 
 TASK Jan 27, 2016
 </small>
@@ -100,7 +99,7 @@ Two schools of thought:
 </ul>
 </td>
 
-<td>
+<td valign="top">
 <img src="http://fsmontenegro.github.io/dockersec/images/fmcat.png">
 </td>
 </tr>
