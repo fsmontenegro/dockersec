@@ -62,7 +62,8 @@ Two schools of thought:
 
 
 ### What we found
-![](http://fsmontenegro.github.io/dockersec/images/DockerIceberg.jpg)
+<img src="http://fsmontenegro.github.io/dockersec/images/DockerIceberg.jpg"  height="400" alt="Iceberg">
+
 
 
 
@@ -72,18 +73,25 @@ Two schools of thought:
 <table>
 <tr>
 <td>
-* Sales Engineer
-  + Network Security (Micro-segmentation)
-* CompSci ’94
-* Greying hair
+<ul>
+<li>Sales Engineer
+<ul>
+<li>Network Security (Micro-segmentation)
+</ul>
+<li>CompSci ’94
+<li>Greying hair
+</ul>
 
-* Curious
-  + Finance (DIY)
-  + Economics (EMH, Behaviour)
-  + Data Science (Coursera)
+<ul>
+<li>Curious
+<ul>
+<li>Finance (DIY)
+<li>Economics (EMH, Behaviour)
+<li>Data Science (Coursera)
+</ul>
 </td>
 <td>
-![](http://fsmontenegro.github.io/dockersec/images/fmcat.jpg)
+![](http://fsmontenegro.github.io/dockersec/images/fmcat.png)
 </td>
 </tr>
 </table>
