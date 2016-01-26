@@ -9,7 +9,11 @@
 
 * Serverless Architecture?
   + AWS Lambda
-  + Microsoft Batch Services
+  + Azure Service Fabric
+
+
+  ![](http://fsmontenegro.github.io/dockersec/images/unikernels.png)
+
 
 
 
@@ -28,17 +32,18 @@
 
 
 ### Docker all over
-Last ~2 weeks of news:
+Last few weeks of news:
 
-* Docker buys Unikernel
+* [Docker buys Unikernel](http://techcrunch.com/2016/01/21/docker-acquires-unikernel-systems-as-it-looks-beyond-containers/)
 * Arista announces Container support in EOS
-* Citrix supports NetScaler as Container
+* [Citrix supports NetScaler as Container](https://www.citrix.com/blogs/2015/12/15/early-christmas-present-a-big-surprise-in-a-small-container/)
 * Amazon announces Docker 1.9 support
 
 
 
 ### Resources!
 
+<small>
 * [@mattnowina](https://twitter.com/mattnowina) - AWS architect, tons of great Docker links
 * [@diogomonica](https://twitter.com/diogomonica) - Docker Security
 * [@nigelpoulton](https://twitter.com/nigelpoulton) - Pluralsight course
@@ -46,12 +51,13 @@ Last ~2 weeks of news:
 * [@blinken_lichten](https://twitter.com/blinken_lichten) - DevOps
 * [@jaybeale](https://twitter.com/jaybeale) - Shmoocon 2016 preso
 
-* [@dockercon](https://twitter.com/dockercon) and
+* [@dockercon](https://twitter.com/dockercon)
 * [@kubeconio](https://twitter.com/kubeconio)
 
 Websites:
-*  [TheNewStack](http://thenewstack.io/)
-*  [Packet Pushers](http://packetpushers.net/datanauts-podcast/)
+* [TheNewStack](http://thenewstack.io/)
+* [Packet Pushers](http://packetpushers.net/datanauts-podcast/)
 
 Others:
-  [RunC](https://runc.io/)
+* [RunC](https://runc.io/)
+</small>
