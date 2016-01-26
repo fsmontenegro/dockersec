@@ -112,3 +112,5 @@ Two schools of thought:
 
 
 ## About us - Ricardo
+
+[@ricardogerardi](https://twitter.com/ricardogerardi)
