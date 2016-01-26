@@ -2,8 +2,9 @@
 
 
 
-## Containers vs. VMs
-* Containers not as isolated as VMs.
+##  First things first...
+* Containers vs. VMs
+  + Containers not as isolated as VMs.
   + but much more isolated than processes...
   + cgroups & namespaces
 * Containers are OS-dependant.
@@ -20,6 +21,42 @@
 - User – users ("root" != **root**)
 
 - Control groups: resource utilization (RAM, swap, CPU, IO, controls)
+
+
+
+
+## Security FOR Docker
+
+How to secure the Docker pipeline
+
+
+
+
+
+
+
+
+
+
+
+## Security FROM Docker
+
+How does Docker protect containers & hosts?
+
+
+
+
+
+
+## Security BY Docker
+
+Leveraging Docker features for security
+
+
+
+
+
+
 
 
 

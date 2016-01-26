@@ -53,11 +53,12 @@ Twitterfolk:
   * [@mierdin](https://twitter.com/mierdin) - KeepingItClassless, TechFieldDay
   * [@blinken_lichten](https://twitter.com/blinken_lichten) - DevOps
   * [@jaybeale](https://twitter.com/jaybeale) - Shmoocon 2016 preso
-  * [@dockercon](https://twitter.com/dockercon) - Docker confab
+  * [@docker](https://twitter.com/docker) and - [@dockercon](https://twitter.com/dockercon) - Company & Conference
   * [@kubeconio](https://twitter.com/kubeconio) - Kubernetes confab
 
 Websites:
   * [TheNewStack](http://thenewstack.io/) - portal of all things "modern" stacks
   * [Packet Pushers](http://packetpushers.net/datanauts-podcast/) - Network-focused approach
   * [RunC](https://runc.io/) - New container initiative
+
 </small>
