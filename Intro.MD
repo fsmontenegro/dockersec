@@ -70,6 +70,10 @@ Two schools of thought:
 
 
 ### What we found
+
+<img src="http://fsmontenegro.github.io/dockersec/images/Dwarrowdelf_LoTR.png">
+
+
 <img src="http://fsmontenegro.github.io/dockersec/images/DockerIceberg.jpg"  height="500" alt="Iceberg">
 
 
