@@ -1,5 +1,10 @@
 # Docker Security
+<small>
+Fernando Montenegro, CISSP - @fsmontenegro
+Ricardo Gerardi - @ricardogerardi
 
+TASK Jan 27, 2016
+</small>
 
 
 
@@ -25,14 +30,17 @@ Google Trends: "Kubernetes"
 
 ### Microservices?
 ![](http://fsmontenegro.github.io/dockersec/images/microservicesF5.png)
+<small>
+(Source: F5)
+</small>
 
 
 
 ### Microservices
-<small>
-*"Many development teams have found the microservices architectural style to be a superior approach to a monolithic architecture. But other teams have found them to be a productivity-sapping burden. Like any architectural style, microservices bring costs and benefits. To make a sensible choice you have to understand these and apply them to your specific context.""*
+*"Many development teams have found the microservices architectural style to be a* **superior** *approach to a monolithic architecture. But other teams have found them to be a productivity-sapping* **burden**. *Like any architectural style, microservices bring costs and benefits. To make a sensible choice you have to understand these and apply them to your specific context.""*
 
-Martin Fowler ( http://martinfowler.com/articles/microservice-trade-offs.html)
+<small>
+Martin Fowler (http://martinfowler.com/articles/microservice-trade-offs.html)
 </small>
 
 
@@ -62,7 +70,7 @@ Two schools of thought:
 
 
 ### What we found
-<img src="http://fsmontenegro.github.io/dockersec/images/DockerIceberg.jpg"  height="400" alt="Iceberg">
+<img src="http://fsmontenegro.github.io/dockersec/images/DockerIceberg.jpg"  height="500" alt="Iceberg">
 
 
 
@@ -90,8 +98,9 @@ Two schools of thought:
 <li>Data Science (Coursera)
 </ul>
 </td>
+
 <td>
-![](http://fsmontenegro.github.io/dockersec/images/fmcat.png)
+<img src="http://fsmontenegro.github.io/dockersec/images/fmcat.png">
 </td>
 </tr>
 </table>

@@ -27,16 +27,26 @@
   + rethink approach ("cattle, not pets")
 
 
+### Docker all over
+Last ~2 weeks of news:
+
+* Docker buys Unikernel
+* Arista announces Container support in EOS
+* Citrix supports NetScaler as Container
+* Amazon announces Docker 1.9 support
+
 
 ### Resources!
+
 * [@mattnowina](https://twitter.com/mattnowina) - AWS architect, tons of great Docker links
 * [@diogomonica](https://twitter.com/diogomonica) - Docker Security
 * [@nigelpoulton](https://twitter.com/nigelpoulton) - Pluralsight course
 * [@mierdin](https://twitter.com/mierdin) - KeepingItClassless, TechFieldDay
-* [@jaybeale](https://twitter.com/jaybeale) - BSidesNYC 2016 preso
+* [@blinken_lichten](https://twitter.com/blinken_lichten) - DevOps
+* [@jaybeale](https://twitter.com/jaybeale) - Shmoocon 2016 preso
 
-Also
-* [@dockercon](https://twitter.com/dockercon) and [@kubeconio](https://twitter.com/kubeconio)
+* [@dockercon](https://twitter.com/dockercon) and
+* [@kubeconio](https://twitter.com/kubeconio)
 
 Websites:
 *  [TheNewStack](http://thenewstack.io/)
