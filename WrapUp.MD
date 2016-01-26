@@ -1,17 +1,19 @@
-## Looking at the Future
+### Looking at the Future
+
+* Containers exist in a continuum of options.
 
 * Unikernels
   + one degree further
   + compile kernel for application
-  + potentially bad idea?
+  + [potentially bad idea?](https://www.joyent.com/blog/unikernels-are-unfit-for-production)
 
-* Serverless Architecture
+* Serverless Architecture?
   + AWS Lambda
   + Microsoft Batch Services
 
 
 
-## Wrapping up
+### Wrapping up
 
 * Docker Security "Anti-Patterns"
   + free-for-all (unrestricted containers in Prod)
@@ -26,23 +28,19 @@
 
 
 
-## Resources!
-
-<small>
+### Resources!
 * [@mattnowina](https://twitter.com/mattnowina) - AWS architect, tons of great Docker links
 * [@diogomonica](https://twitter.com/diogomonica) - Docker Security
 * [@nigelpoulton](https://twitter.com/nigelpoulton) - Pluralsight course
-* [@mierdin](https://twitter.com/mierdin) - Packet Pushers podcast
+* [@mierdin](https://twitter.com/mierdin) - KeepingItClassless, TechFieldDay
 * [@jaybeale](https://twitter.com/jaybeale) - BSidesNYC 2016 preso
 
 Also
-* [@dockercon](https://twitter.com/dockercon)
-* [@kubeconio](https://twitter.com/kubeconio)
+* [@dockercon](https://twitter.com/dockercon) and [@kubeconio](https://twitter.com/kubeconio)
 
 Websites:
-*  http://thenewstack.io/
-*  http://packetpushers.net/datanauts-podcast/
+*  [TheNewStack](http://thenewstack.io/)
+*  [Packet Pushers](http://packetpushers.net/datanauts-podcast/)
 
 Others:
-  RunC
-</small>
+  [RunC](https://runc.io/)

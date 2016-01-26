@@ -3,7 +3,7 @@
 
 
 
-## Why are we here?
+### Why are we here?
 
 Google Trends: "Microservices"
 
@@ -23,26 +23,27 @@ Google Trends: "Kubernetes"
 
 
 
-## Microservices?
+### Microservices?
 ![](http://fsmontenegro.github.io/dockersec/images/microservicesF5.png)
 
 
 
-## Microservices
+### Microservices
+<small>
 *"Many development teams have found the microservices architectural style to be a superior approach to a monolithic architecture. But other teams have found them to be a productivity-sapping burden. Like any architectural style, microservices bring costs and benefits. To make a sensible choice you have to understand these and apply them to your specific context.""*
 
 Martin Fowler ( http://martinfowler.com/articles/microservice-trade-offs.html)
+</small>
 
 
-
-## Significant benefits
+### Significant benefits
 * Support CI/CD practices
 * Easier to achieve scale
 * Operational benefits of "DevOps"
 
 
 
-## DataDog Container Survey
+### DataDog Container Survey
 
 (https://www.datadoghq.com/docker-adoption/)
 
@@ -60,16 +61,18 @@ Two schools of thought:
 
 
 
-## What we found
+### What we found
 ![](http://fsmontenegro.github.io/dockersec/images/DockerIceberg.jpg)
 
 
 
-## About us - Fernando
-
+### About us - Fernando
 [@fsmontenegro](https://twitter.com/fsmontenegro)
 
-* Sales Engineer | ![](http://fsmontenegro.github.io/dockersec/images/fmcat.png)
+<table>
+<tr>
+<td>
+* Sales Engineer
   + Network Security (Micro-segmentation)
 * CompSci ’94
 * Greying hair
@@ -78,8 +81,12 @@ Two schools of thought:
   + Finance (DIY)
   + Economics (EMH, Behaviour)
   + Data Science (Coursera)
-
-
+</td>
+<td>
+![](http://fsmontenegro.github.io/dockersec/images/fmcat.jpg)
+</td>
+</tr>
+</table>
 
 
 

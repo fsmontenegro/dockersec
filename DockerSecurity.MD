@@ -2,6 +2,27 @@
 
 
 
+## Containers vs. VMs
+* Containers not as isolated as VMs.
+  + but much more isolated than processes...
+  + cgroups & namespaces
+* Containers are OS-dependant.
+
+* Containers for multi-tenancy? Not so fast...
+
+
+## Namespaces & Cgroups
+- PID – process isolation
+- Network – NICs, IPs, routing tabes et al.
+- UTS – hostnames
+- Mount – filesystem layouts/ properties
+- IPC – interprocess communication
+- User – users ("root" != **root**)
+
+- Control groups: resource utilization (RAM, swap, CPU, IO, controls)
+
+
+
 ## Securing the Host itself
 * Harden OS
 * Harden kernel?
