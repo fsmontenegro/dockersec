@@ -100,13 +100,8 @@ Two schools of thought:
 </ul>
 </td>
 
-<<<<<<< Updated upstream
-<td valign="top">
-<img src="http://fsmontenegro.github.io/dockersec/images/fmcat.png" width=300 height=400>
-=======
 <td style="vertical-align: top;">
 <img src="http://fsmontenegro.github.io/dockersec/images/fmcat.png" height="400">
->>>>>>> Stashed changes
 </td>
 </tr>
 </table>
