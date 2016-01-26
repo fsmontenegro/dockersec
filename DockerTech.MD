@@ -16,11 +16,11 @@ Eliminates the existing chasm between Dev and Sys Admins <!-- .element: class="f
 
 ## Docker architecture in a nutshell
 
-![Alt text](images/what-is-vm-diagram.png) <!-- .element: style="border:1px grey" -->
+![](http://fsmontenegro.github.io/dockersec/images//what-is-vm-diagram.png) <!-- .element: style="border:1px grey" -->
 
 <small>Source: <a href="https://www.docker.com/what-docker">https://www.docker.com/what-docker</a></small>
 
 
-![Alt text](images/architecture.svg) <!-- .element: style="border:1px grey" -->
+![Alt text](http://fsmontenegro.github.io/dockersec/images//architecture.svg) <!-- .element: style="border:1px grey" -->
 
 <small>Source: <a href="https://docs.docker.com/engine/introduction/understanding-docker/">https://docs.docker.com/engine/introduction/understanding-docker/</a></small>
