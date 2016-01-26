@@ -1,7 +1,10 @@
 # Docker Security
+
 <small>
-Fernando Montenegro, CISSP - @fsmontenegro
-Ricardo Gerardi - @ricardogerardi
+Fernando Montenegro, CISSP - [@fsmontenegro](https://twitter.com/fsmontenegro)
+
+Ricardo Gerardi - [@ricardogerardi](https://twitter.com/ricardogerardi)
+
 
 TASK Jan 27, 2016
 </small>
@@ -15,11 +18,9 @@ Google Trends: "Microservices"
 ![](http://fsmontenegro.github.io/dockersec/images/microservicesGT.png)
 
 
-
 Google Trends:  "Docker"
 
 ![](http://fsmontenegro.github.io/dockersec/images/DockerGT.png)
-
 
 
 Google Trends: "Kubernetes"
@@ -33,7 +34,6 @@ Google Trends: "Kubernetes"
 <small>
 (Source: F5)
 </small>
-
 
 
 ### Microservices
@@ -60,9 +60,7 @@ Two schools of thought:
 * Containers as "lightweight servers" that stay up
 
 
-
 ![](http://fsmontenegro.github.io/dockersec/images/ddContainerTypes.png)
-
 
 
 ![](http://fsmontenegro.github.io/dockersec/images/ddContainerLife.png)
@@ -75,7 +73,6 @@ Two schools of thought:
 
 
 <img src="http://fsmontenegro.github.io/dockersec/images/DockerIceberg.jpg"  height="500" alt="Iceberg">
-
 
 
 
