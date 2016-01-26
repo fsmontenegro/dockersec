@@ -1,7 +1,10 @@
 # Docker Security
+
 <small>
-Fernando Montenegro, CISSP - @fsmontenegro
-Ricardo Gerardi - @ricardogerardi
+Fernando Montenegro, CISSP - [@fsmontenegro](https://twitter.com/fsmontenegro)
+
+Ricardo Gerardi - [@ricardogerardi](https://twitter.com/ricardogerardi)
+
 
 TASK Jan 27, 2016
 </small>
