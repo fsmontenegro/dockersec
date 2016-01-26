@@ -1,16 +1,41 @@
-## Docker Introduction
+# Docker Intro
 
-### What is Docker? <!-- .element: class="fragment" data-fragment-index="1" -->
+
+
+## What is Docker?
+
+### Docker, the platform <!-- .element: class="fragment" data-fragment-index="1" -->
 
 Docker is a container based platform used to package and run applications in a variety of systems <!-- .element: class="fragment" data-fragment-index="2" style="color: blue"-->
 
-### What problem does it solve? <!-- .element: class="fragment" data-fragment-index="3" -->
+### Docker, the company <!-- .element: class="fragment" data-fragment-index="3" -->
 
-Eliminates the existing chasm between Dev and Sys Admins <!-- .element: class="fragment" data-fragment-index="4" style="color: blue"-->
+[Docker Inc. (https://www.docker.com/company)](https://www.docker.com/company)  <!-- .element: class="fragment" data-fragment-index="4" style="color: blue"-->
 
 
 
 ## Software package and distribution challenge
+
+
+
+## Why Docker?
+
+- Linux containers
+  + Around for a *long* time (Open VZ, LXC, etc)
+  + Not very "friendly"
+- Docker streamlines the process and makes it very easy to create and use containers
+  + Speed (Development/Scalability)
+  + Portability
+  + Driver to DevOps and Microservices
+
+
+
+## What do you need to run Docker?
+
+- Recent Linux Kernel (3.8+)
+  + Namespaces
+  + cGroups
+- Network connection
 
 
 
