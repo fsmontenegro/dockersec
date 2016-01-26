@@ -80,7 +80,7 @@ Two schools of thought:
 
 <table>
 <tr>
-<td valign="top">
+<td style="vertical-align: top;">
 <ul>
 <li>Sales Engineer
 <ul>
