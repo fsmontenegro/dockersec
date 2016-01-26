@@ -6,6 +6,7 @@
   + one degree further
   + compile kernel for application
   + [potentially bad idea?](https://www.joyent.com/blog/unikernels-are-unfit-for-production)
+    + Undebuggable?
 
 * Serverless Architecture?
   + AWS Lambda
@@ -25,6 +26,7 @@
 
 * Recommendations for Security
   + **Don't try to stop it!!!**
+  + recognize massive potential for disruption
   + no agents on containers
   + watch for outbound traffic
   + keep up to date (news!)
@@ -55,9 +57,7 @@ Twitterfolk:
   * [@kubeconio](https://twitter.com/kubeconio) - Kubernetes confab
 
 Websites:
-  * [TheNewStack](http://thenewstack.io/)
-  * [Packet Pushers](http://packetpushers.net/datanauts-podcast/)
-
-Others:
-  * [RunC](https://runc.io/)
+  * [TheNewStack](http://thenewstack.io/) - portal of all things "modern" stacks
+  * [Packet Pushers](http://packetpushers.net/datanauts-podcast/) - Network-focused approach
+  * [RunC](https://runc.io/) - New container initiative
 </small>
