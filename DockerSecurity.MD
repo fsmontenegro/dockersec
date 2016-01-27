@@ -13,7 +13,7 @@
 
 
 
-## Security FOR Docker
+## Security *FOR* Docker
 
 How to "secure" the Docker pipeline
 
@@ -27,15 +27,15 @@ How to "secure" Docker containers themselves
   + trusted sources - docker hub, private registry
   + building secure
   + Docker Content Trust (1.8)
-    "only signed content in production"
+    + "only signed content in production"
 
 
 ### Docker's Project Nautilus
-    * Docker securing images on DockerHub
-    * Image security
-    * Component inventory/license management
-    * Image optimization
-    * Basic functional testing
+* Docker securing images on DockerHub
+* Image security
+* Component inventory/license management
+* Image optimization
+* Basic functional testing
 
 
 ### Other Considerations
@@ -43,13 +43,14 @@ How to "secure" Docker containers themselves
   + Can mount additional volumes
 * How to do Secrets Management?
   + ENV variables - not recommended
-  + Key/Value Pair solutions - Hashicorp et al.
-  + Embedded in orchestration (Kubernetes)
-  + Custom solutions
+  + Key/Value Pair solutions
+    + [Vault & Keywhiz](https://www.vaultproject.io/intro/vs/keywhiz.html)
+  + Embedded in orchestration ([Kubernetes](http://kubernetes.io/v1.1/docs/user-guide/secrets.html))
+  + [Custom solutions](https://engineering.shopify.com/79963908-secrets-at-shopify-introducing-ejson)
 
 
 
-## Security FROM Docker
+## Security *FROM* Docker
 
 How does Docker protect containers & hosts?
 
@@ -87,13 +88,13 @@ Leveraging Docker features for security
 
 
 ## Securing Containers
-    read-only FileSystems
-      came in Docker 1.5
-      specify logs in another volume or remote
-    seccomp
-      secure computing mode
-      filter system calls
-      VERY nice!
+read-only FileSystems
+came in Docker 1.5
+specify logs in another volume or remote
+seccomp
+secure computing mode
+filter system calls
+VERY nice!
 
 
 ## Securing Docker daemon and running Containers
