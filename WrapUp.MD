@@ -1,3 +1,7 @@
+# Wrapping Up
+
+
+
 ### Looking at the Future
 
 * Containers exist in a continuum of options.
@@ -20,14 +24,14 @@
 
 ### Wrapping up
 
-* Docker Security "Anti-Patterns"
+* Docker Security "Anti-Patterns" <!-- .element: class="fragment" data-fragment-index="1" -->
   + free-for-all (unrestricted containers in Prod)
   + treating containers as servers
 
-* Recommendations for Security
+* Recommendations for Security <!-- .element: class="fragment" data-fragment-index="2" -->
   + **Don't try to stop it!!!**
   + recognize massive potential for disruption
-  + no agents on containers
+  + no agents on containers <!-- .element: class="fragment" data-fragment-index="3" -->
   + watch for outbound traffic
   + keep up to date (news!)
   + rethink approach ("cattle, not pets")
