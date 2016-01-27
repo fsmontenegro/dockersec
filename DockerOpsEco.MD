@@ -32,16 +32,29 @@ Note: 1 min 42-43
 <img src="http://fsmontenegro.github.io/dockersec/images/new-gcp-logo_2x.png" height="100" width="230" style="border: none;">
 </td>
 </tr>
-
 </table>
 
 
 ### PaaS Providers
 
-- RedHat OpenShift
-- Heroku
-- Cloud Foundry
-- IBM Bluemix
+<table style="border: none;">
+<tr style="border: none;">
+<td style="vertical-align: top; border: none;">
+<img src="http://fsmontenegro.github.io/dockersec/images/OpenShift-logo.png" height="100" width="230" style="border: none;">
+</td>
+<td style="vertical-align: top; border: none;">
+<img src="http://fsmontenegro.github.io/dockersec/images/heroku-logo.png" height="100" width="230" style="border: none;">
+</td>
+</tr>
+<tr style="border: none;">
+<td style="vertical-align: top; border: none;">
+<img src="http://fsmontenegro.github.io/dockersec/images/cloud-foundry-logo.png" height="100" width="230" style="border: none;">
+</td>
+<td style="vertical-align: top; border: none;">
+<img src="http://fsmontenegro.github.io/dockersec/images/Bluemix-logo-right.png" height="100" width="230" style="border: none;">
+</td>
+</tr>
+</table>
 
 Note: Usually supporting their own security features:
   - Certificate Based Authentication
@@ -53,9 +66,23 @@ Note: Usually supporting their own security features:
 
 ## Orchestration / Scheduling
 
-- Kubernetes
-- Docker Swarm
-- Apache Mesos
+<table style="border: none;">
+<tr style="border: none;">
+<td style="vertical-align: top; border: none;">
+<img src="http://fsmontenegro.github.io/dockersec/images/kubernetes.png" height="100" width="230" style="border: none;">
+</td>
+<td style="vertical-align: top; border: none;">
+<img src="http://fsmontenegro.github.io/dockersec/images/DockerSwarm.png" height="100" width="230" style="border: none;">
+</td>
+</tr>
+<tr style="border: none;">
+<td style="vertical-align: top; border: none;">
+<img src="http://fsmontenegro.github.io/dockersec/images/apache-mesos-logo.png" height="100" width="230" style="border: none;">
+</td>
+<td style="vertical-align: top; border: none;">
+</td>
+</tr>
+</table>
 
 Note: 1 min 43-44
 
