@@ -16,20 +16,20 @@ Note: 1 min
 ### Public Cloud Providers
 
 <table style="border: none;">
-<tr>
-<td style="vertical-align: top;">
-<img src="http://fsmontenegro.github.io/dockersec/images/amazon-aws-logo.jpg" height="100" width="200" style="border: none;">
+<tr style="border: none;">
+<td style="vertical-align: top; border: none;">
+<img src="http://fsmontenegro.github.io/dockersec/images/amazon-aws-logo.jpg" height="100" width="230" style="border: none;">
 </td>
-<td style="vertical-align: top;">
-<img src="http://fsmontenegro.github.io/dockersec/images/Microsoft-Azure_logo.png" height="100" width="200" style="border: none;">
+<td style="vertical-align: top; border: none;">
+<img src="http://fsmontenegro.github.io/dockersec/images/Microsoft-Azure_logo.png" height="100" width="230" style="border: none;">
 </td>
 </tr>
-<tr>
-<td style="vertical-align: top;">
-<img src="http://fsmontenegro.github.io/dockersec/images/digitalocean.png" height="100" width="200" style="border: none;">
+<tr style="border: none;">
+<td style="vertical-align: top; border: none;">
+<img src="http://fsmontenegro.github.io/dockersec/images/digitalocean.png" height="100" width="230" style="border: none;">
 </td>
-<td style="vertical-align: top;">
-<img src="http://fsmontenegro.github.io/dockersec/images/new-gcp-logo_2x.png" height="100" width="200" style="border: none;">
+<td style="vertical-align: top; border: none;">
+<img src="http://fsmontenegro.github.io/dockersec/images/new-gcp-logo_2x.png" height="100" width="230" style="border: none;">
 </td>
 </tr>
 
