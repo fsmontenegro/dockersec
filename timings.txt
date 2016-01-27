@@ -23,3 +23,21 @@ WrapUp.MD:Note: 2 min
 Introduction..:  8.5
 DockerSecurity: 12   min 
 WrapUp....... :  6.5 min
+
+DockerOpsEco.MD:Note: 1 min
+DockerOpsEco.MD:Note: 1 min
+DockerOpsEco.MD:Note: 2 min
+DockerOpsEco.MD:Note: 2 min
+
+DockerTech.MD:Note: 1 min
+DockerTech.MD:Note: 3 min
+DockerTech.MD:Note: 1.5 min
+DockerTech.MD:Note: 0.5 min
+DockerTech.MD:Note: 5 min
+DockerTech.MD:Note: 10 min
+
+27 min...
+---
+Docker Tech: 11 min
+Demo: 10 min
+Ops: 6 min
