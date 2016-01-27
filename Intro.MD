@@ -8,7 +8,7 @@ Ricardo Gerardi - [@ricardogerardi](https://twitter.com/ricardogerardi)
 
 TASK Jan 27, 2016
 </small>
-Note: 0.5 min
+Note: 0.5 min 0-0.5
 
 
 
@@ -17,7 +17,7 @@ Note: 0.5 min
 Google Trends: "Microservices"
 
 ![](http://fsmontenegro.github.io/dockersec/images/microservicesGT.png)
-Note: 1 min
+Note: 1 min 0.5-1.5
 
 
 Google Trends:  "Docker"
@@ -36,7 +36,7 @@ Google Trends: "Kubernetes"
 <small>
 (Source: F5)
 </small>
-Note: 2 min
+Note: 2 min 1.5-3.5
 
 
 ### Microservices
@@ -61,7 +61,7 @@ Martin Fowler (http://martinfowler.com/articles/microservice-trade-offs.html)
 Two schools of thought:
 * Containers as up&down microservices
 * Containers as "lightweight servers" that stay up
-Note: 2 min
+Note: 2 min 3.5-5.5
 
 
 ![](http://fsmontenegro.github.io/dockersec/images/ddContainerTypes.png)
@@ -74,7 +74,7 @@ Note: 2 min
 ### What we found
 
 <img src="http://fsmontenegro.github.io/dockersec/images/Dwarrowdelf_LoTR.png">
-Note: 1 min
+Note: 1 min 5.5-6.5
 
 
 <img src="http://fsmontenegro.github.io/dockersec/images/DockerIceberg.jpg"  height="700" alt="Iceberg">
@@ -110,7 +110,7 @@ Note: 1 min
 </td>
 </tr>
 </table>
-Note: 1 min
+Note: 1 min 6.5-7.5
 
 
 
@@ -144,4 +144,4 @@ Note: 1 min
 </td>
 </tr>
 </table>
-Note: 1 min
+Note: 1 min 7.5-8.5
