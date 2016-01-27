@@ -12,6 +12,8 @@ Docker is a container based platform used to package and run applications in a v
 
 [Docker Inc. (https://www.docker.com/company)](https://www.docker.com/company)  <!-- .element: class="fragment" data-fragment-index="4" style="color: blue"-->
 
+Note: 1 min
+
 
 
 ## Software package and distribution challenge
@@ -20,7 +22,7 @@ Docker is a container based platform used to package and run applications in a v
 
 ![](http://fsmontenegro.github.io/dockersec/images/old_way_hosted.png) <!-- .element: style="border:1px grey" -->
 
-Note: Speaker notes
+Note: 3 min
   - No isolation
     + Isolation only by segregating servers - Inefficient
   - Common libraries/dependencies
@@ -58,6 +60,8 @@ Note: Speaker notes
   + Portability
   + Driver to DevOps and Microservices
 
+Note: 1.5 min
+
 
 
 ## What do you need to run Docker?
@@ -67,6 +71,8 @@ Note: Speaker notes
   + cGroups
 - Network connection
 
+Note: 0.5 min
+
 
 
 ## Docker architecture in a nutshell
@@ -75,7 +81,15 @@ Note: Speaker notes
 
 <small>Source: <a href="https://www.docker.com/what-docker">https://www.docker.com/what-docker</a></small>
 
+Note: 5 min
+
 
 ![](http://fsmontenegro.github.io/dockersec/images/architecture.svg) <!-- .element: style="border:1px grey" -->
 
 <small>Source: <a href="https://docs.docker.com/engine/introduction/understanding-docker/">https://docs.docker.com/engine/introduction/understanding-docker/</a></small>
+
+
+
+## Docker demo
+
+Note: 10 min
