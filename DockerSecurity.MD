@@ -85,6 +85,11 @@ How to contain Docker & containers?
 * Control groups: resource utilization (RAM, swap, CPU, IO, controls)
 
 
+### Additional features
+* capabilities - add or drop capabilities
+* seccomp - filtering of system calls
+* network isolation via iptables
+  + limit inter-container communication
 
 
 ## Security BY Docker
@@ -94,7 +99,8 @@ Leveraging Docker features for security
 
 ### Leveraging Docker for Security
 * microservice -> reduced attack surface
+* enforce content trust to protect production
 * r/o FileSystems
-* reduced capabilities
+* drop capabilities when possible
 * seccomp - filtering system calls
 * journaled changes
