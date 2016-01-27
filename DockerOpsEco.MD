@@ -75,7 +75,7 @@ Note: Overlay networks
 
 
 ### Container monitoring solutions
-- Google cAdvisor
+- [Google cAdvisor](http://192.168.56.102:8080/containers/)
 - Sysdig Cloud
 - Weaveworks
 - New relic
