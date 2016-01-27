@@ -15,10 +15,13 @@ Note: 1 min
 
 ### Public Cloud Providers
 
-- AWS
-- ![](http://fsmontenegro.github.io/dockersec/images/Microsoft-Azure_logo.png "Microsoft Azure")
-- Digital Ocean
-- Google Container engine
+AWS ![](http://fsmontenegro.github.io/dockersec/images/amazon-aws-logo.jpg "AWS")
+
+MS Azure ![](http://fsmontenegro.github.io/dockersec/images/Microsoft-Azure_logo.png "Microsoft Azure")
+
+Digital Ocean ![](http://fsmontenegro.github.io/dockersec/images/digitalocean.png "Digital Ocean")
+
+Google Container engine
 
 
 ### PaaS Providers
