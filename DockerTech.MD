@@ -16,6 +16,36 @@ Docker is a container based platform used to package and run applications in a v
 
 ## Software package and distribution challenge
 
+### Old Way - Hosted applications
+
+![](http://fsmontenegro.github.io/dockersec/images/old_way_hosted.png) <!-- .element: style="border:1px grey" -->
+
+Note: Speaker notes
+  - No isolation
+    + Isolation only by segregating servers - Inefficient
+  - Common libraries/dependencies
+  - Highly coupled with OS
+
+
+### Virtual machines
+
+![](http://fsmontenegro.github.io/dockersec/images/vms.png) <!-- .element: style="border:1px grey" -->
+
+Note: Speaker notes
+  - Isolation
+    + Duplication / Inefficient
+  - Highly coupled with Guest OS
+
+
+### Enter the container
+
+![](http://fsmontenegro.github.io/dockersec/images/containers.png) <!-- .element: style="border:1px grey" -->
+
+Note: Speaker notes
+  - Some isolation
+  - Independent libs - avoid dependency hell
+  - Loosely coupled with OS
+
 
 
 ## Why Docker?
