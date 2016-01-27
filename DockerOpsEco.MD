@@ -15,13 +15,25 @@ Note: 1 min
 
 ### Public Cloud Providers
 
-AWS ![](http://fsmontenegro.github.io/dockersec/images/amazon-aws-logo.jpg "AWS")
+<table>
+<tr>
+<td style="vertical-align: top;">
+<img src="http://fsmontenegro.github.io/dockersec/images/amazon-aws-logo.jpg" height="100" width="180">
+</td>
+<td style="vertical-align: top;">
+<img src="http://fsmontenegro.github.io/dockersec/images/Microsoft-Azure_logo.png" height="100" width="180">
+</td>
+</tr>
+<tr>
+<td style="vertical-align: top;">
+<img src="http://fsmontenegro.github.io/dockersec/images/digitalocean.png" height="100" width="180">
+</td>
+<td style="vertical-align: top;">
+<img src="http://fsmontenegro.github.io/dockersec/images/new-gcp-logo_2x.png" height="100" width="180">
+</td>
+</tr>
 
-MS Azure ![](http://fsmontenegro.github.io/dockersec/images/Microsoft-Azure_logo.png "Microsoft Azure")
-
-Digital Ocean ![](http://fsmontenegro.github.io/dockersec/images/digitalocean.png "Digital Ocean")
-
-Google Container engine
+</table>
 
 
 ### PaaS Providers
