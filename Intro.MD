@@ -101,7 +101,7 @@ Two schools of thought:
 </td>
 
 <td style="vertical-align: top;">
-<img src="http://fsmontenegro.github.io/dockersec/images/fmcat.png" height="400">
+<img src="http://fsmontenegro.github.io/dockersec/images/fmcat.png" height="400" width="300">
 </td>
 </tr>
 </table>
