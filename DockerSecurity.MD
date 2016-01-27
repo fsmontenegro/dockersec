@@ -10,14 +10,15 @@
 * Containers are OS-dependant.
 
 * Containers for multi-tenancy? Not so fast...
+  + Containers & VMs :-)
 
 
 
 ## Security *FOR* Docker
 
-How to "secure" the Docker pipeline
+How to secure the Docker "pipeline"
 
-How to "secure" Docker containers themselves
+How to secure Docker containers themselves
 
 
 ### Security for Docker Images
@@ -26,8 +27,9 @@ How to "secure" Docker containers themselves
 * **Getting trustworthy images**
   + trusted sources - docker hub, private registry
   + building secure
-  + Docker Content Trust (1.8)
+  + Docker Content Trust (1.8) [Notary]
     + "only signed content in production"
+    + Yubico Keys
 
 
 ### Docker's Project Nautilus
@@ -36,6 +38,12 @@ How to "secure" Docker containers themselves
 * Component inventory/license management
 * Image optimization
 * Basic functional testing
+
+
+### Clair by CoreOS
+* Security scanning of images - https://coreos.com/blog/vulnerability-analysis-for-containers/
+* Available on Quay
+* Security Scanning Beta - https://blog.quay.io/security-scanning-beta/
 
 
 ### Other Considerations
@@ -52,7 +60,7 @@ How to "secure" Docker containers themselves
 
 ## Security *FROM* Docker
 
-How does Docker protect containers & hosts?
+How to contain Docker & containers?
 
 
 ### Securing the Host itself
@@ -60,9 +68,10 @@ How does Docker protect containers & hosts?
   + Atomic
   + CoreOS
 * Harden OS
-* Harden kernel
-      https://grsecurity.net/compare.php
-      http://mjg59.dreamwidth.org/38158.html
+* Harden kernel ([grsecurity](https://grsecurity.net/compare.php))
+* Linux Security Modules
+  + AppArmor and SELinux
+  + Of note: [Bane](https://github.com/jfrazelle/bane)
 
 
 ### Namespaces & Cgroups
@@ -83,47 +92,9 @@ How does Docker protect containers & hosts?
 Leveraging Docker features for security
 
 
-
-## TEMP - To Move
-
-
-## Securing Containers
-read-only FileSystems
-came in Docker 1.5
-specify logs in another volume or remote
-seccomp
-secure computing mode
-filter system calls
-VERY nice!
-
-
-## Securing Docker daemon and running Containers
-secure Docker API and socket
-access control
-root user, Docker group only on /var/run/docker.sock
-de-containerized aspects
--net = host, -pid = host
-consider TLS authentication
---tlsverify
-proper location for certs
-/etc/default/docker
-
-
-## Securing the Hosts from Docker
-User-namespaces
-root in container is mapped to non-root user
-(experimental)
-more features coming
-SELinux/AppArmor Profiles
-Jessie Frazelle - bane
-
-
-### Clair by CoreOS
-* Security scanning of images - https://coreos.com/blog/vulnerability-analysis-for-containers/
-* Available on Quay
-* Security Scanning Beta - https://blog.quay.io/security-scanning-beta/
-
-
-## Other
-DockerBench
-script for best practices
+### Leveraging Docker for Security
+* microservice -> reduced attack surface
+* r/o FileSystems
+* reduced capabilities
+* seccomp - filtering system calls
+* journaled changes

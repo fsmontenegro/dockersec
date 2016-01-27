@@ -65,7 +65,7 @@ Twitterfolk:
 </td>
 <td>
 <ul>
-<li>[@Sirupsen](https://twitter.com/Sirupsen) - WebScale @ Shopify 
+<li>[@Sirupsen](https://twitter.com/Sirupsen) - WebScale @ Shopify
 <li>[@blinken_lichten](https://twitter.com/blinken_lichten) - DevOps
 <li>[@jaybeale](https://twitter.com/jaybeale) - Shmoocon 2016 preso
 <li>[@docker](https://twitter.com/docker) and [@dockercon](https://twitter.com/dockercon) - Company & Conference
@@ -76,6 +76,7 @@ Twitterfolk:
 </table>
 
 Websites:
+  * [DockerBench](https://github.com/docker/docker-bench-security) - Checklist
   * [TheNewStack](http://thenewstack.io/) - portal of all things "modern" stacks
   * [Packet Pushers](http://packetpushers.net/datanauts-podcast/) - Network-focused approach
   * [RunC](https://runc.io/) - Open Container Initiative
