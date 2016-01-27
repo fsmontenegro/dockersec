@@ -85,12 +85,12 @@ Two schools of thought:
 <ul>
 <li>Sales Engineer
 <ul>
-<li>Network Security (Micro-segmentation)
+<li>Online Fraud
+<li>Network Security
 </ul>
 <li>CompSci ’94
 <li>Greying hair
 </ul>
-
 <ul>
 <li>Curious
 <ul>
