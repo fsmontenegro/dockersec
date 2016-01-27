@@ -12,7 +12,7 @@ Docker is a container based platform used to package and run applications in a v
 
 [Docker Inc. (https://www.docker.com/company)](https://www.docker.com/company)  <!-- .element: class="fragment" data-fragment-index="4" style="color: blue"-->
 
-Note: 1 min
+Note: 1 min 8.5-9.5
 
 
 
@@ -22,7 +22,7 @@ Note: 1 min
 
 ![](http://fsmontenegro.github.io/dockersec/images/old_way_hosted.png) <!-- .element: style="border:1px grey" -->
 
-Note: 3 min
+Note: 3 min 9.5-12.5
   - No isolation
     + Isolation only by segregating servers - Inefficient
   - Common libraries/dependencies
@@ -60,7 +60,7 @@ Note: Speaker notes
   + Portability
   + Driver to DevOps and Microservices
 
-Note: 1.5 min
+Note: 1.5 min 12.5-14
 
 
 
@@ -71,7 +71,7 @@ Note: 1.5 min
   + cGroups
 - Network connection
 
-Note: 0.5 min
+Note: 0.5 min 14-14.5
 
 
 
@@ -81,7 +81,7 @@ Note: 0.5 min
 
 <small>Source: <a href="https://www.docker.com/what-docker">https://www.docker.com/what-docker</a></small>
 
-Note: 5 min
+Note: 5 min 14.5-19.5
 
 
 ![](http://fsmontenegro.github.io/dockersec/images/architecture.svg) <!-- .element: style="border:1px grey" -->
@@ -92,4 +92,4 @@ Note: 5 min
 
 ## Docker demo
 
-Note: 10 min
+Note: 10 min 19.5-29.5

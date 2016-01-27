@@ -10,7 +10,7 @@
 - Virtual Machines
 - IaaS, OpenStack, etc
 
-Note: 1 min
+Note: 1 min 42-43
 
 
 ### Public Cloud Providers
@@ -57,7 +57,7 @@ Note: Usually supporting their own security features:
 - Docker Swarm
 - Apache Mesos
 
-Note: 1 min
+Note: 1 min 43-44
 
 
 
@@ -67,7 +67,7 @@ Note: 1 min
 
 ![](http://fsmontenegro.github.io/dockersec/images/docker-net-bridge.png) <!-- .element: style="border:1px grey" -->
 
-Note: 2 min
+Note: 2 min 44-46
   - L2/Bridge
   - No outbound filtering
   - Inter host comm depends on NAT
@@ -93,7 +93,7 @@ Note: Overlay networks
 - Container instrumentation (1 process/container philosophy)
 - API instability
 
-Note: 2 min
+Note: 2 min 46-48
 
 
 ### Container monitoring solutions
