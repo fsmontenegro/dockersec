@@ -10,11 +10,13 @@
 - Virtual Machines
 - IaaS, OpenStack, etc
 
+Note: 1 min
+
 
 ### Public Cloud Providers
 
 - AWS
-- Microsoft Azure
+- ![](http://fsmontenegro.github.io/dockersec/images/Microsoft-Azure_logo.png "Microsoft Azure")
 - Digital Ocean
 - Google Container engine
 
@@ -40,6 +42,8 @@ Note: Usually supporting their own security features:
 - Docker Swarm
 - Apache Mesos
 
+Note: 1 min
+
 
 
 ## Networking
@@ -48,7 +52,8 @@ Note: Usually supporting their own security features:
 
 ![](http://fsmontenegro.github.io/dockersec/images/docker-net-bridge.png) <!-- .element: style="border:1px grey" -->
 
-Note: L2/Bridge
+Note: 2 min
+  - L2/Bridge
   - No outbound filtering
   - Inter host comm depends on NAT
 
@@ -72,6 +77,8 @@ Note: Overlay networks
 - Host Monitoring x Container Monitoring
 - Container instrumentation (1 process/container philosophy)
 - API instability
+
+Note: 2 min
 
 
 ### Container monitoring solutions
