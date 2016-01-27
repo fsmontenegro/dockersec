@@ -68,13 +68,15 @@ Twitterfolk:
 </ul>
 </td>
 <td>
-[@blinken_lichten](https://twitter.com/blinken_lichten) - DevOps
+<ul>
+<li>[@blinken_lichten](https://twitter.com/blinken_lichten) - DevOps
 
-[@jaybeale](https://twitter.com/jaybeale) - Shmoocon 2016 preso
+<li>[@jaybeale](https://twitter.com/jaybeale) - Shmoocon 2016 preso
 
-[@docker](https://twitter.com/docker) and [@dockercon](https://twitter.com/dockercon) - Company & Conference
+<li>[@docker](https://twitter.com/docker) and [@dockercon](https://twitter.com/dockercon) - Company & Conference
 
-[@kubeconio](https://twitter.com/kubeconio) - Kubernetes confab
+<li>[@kubeconio](https://twitter.com/kubeconio) - Kubernetes confab
+</ul>
 </td>
 </tr>
 </table>
