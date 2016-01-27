@@ -55,15 +55,17 @@ Twitterfolk:
 <table>
 <tr>
 <td>
-[@mattnowina](https://twitter.com/mattnowina) - AWS architect, tons of Docker links
+<ul>
+<li>[@mattnowina](https://twitter.com/mattnowina) - AWS architect, tons of Docker links
 
-[@diogomonica](https://twitter.com/diogomonica) - Docker Security
+<li>[@diogomonica](https://twitter.com/diogomonica) - Docker Security
 
-[@frazelledazzell](https://twitter.com/frazelledazzell) - Tons of Container work
+<li>[@frazelledazzell](https://twitter.com/frazelledazzell) - Tons of Container work
 
-[@nigelpoulton](https://twitter.com/nigelpoulton) - Pluralsight course
+<li>[@nigelpoulton](https://twitter.com/nigelpoulton) - Pluralsight course
 
-[@mierdin](https://twitter.com/mierdin) - KeepingItClassless, TechFieldDay
+<li>[@mierdin](https://twitter.com/mierdin) - KeepingItClassless, TechFieldDay
+</ul>
 </td>
 <td>
 [@blinken_lichten](https://twitter.com/blinken_lichten) - DevOps
