@@ -29,7 +29,7 @@
   + treating containers as servers <!-- .element: class="fragment" data-fragment-index="1" -->
 
 * Recommendations for Security <!-- .element: class="fragment" data-fragment-index="2" -->
-  + **Don't try to stop it!!!** <!-- .element: class="fragment" data-fragment-index="2" -->
+  + Don't try to stop it!!! <!-- .element: class="fragment" data-fragment-index="2" style="font-weight: bold"-->
   + recognize massive potential for disruption <!-- .element: class="fragment" data-fragment-index="2" -->
   + no agents on containers <!-- .element: class="fragment" data-fragment-index="3" -->
   + watch for outbound traffic <!-- .element: class="fragment" data-fragment-index="3" -->
