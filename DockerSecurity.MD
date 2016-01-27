@@ -11,6 +11,7 @@
 
 * Containers for multi-tenancy? Not so fast...
   + Containers & VMs :-)
+Note: 1.5 min
 
 
 
@@ -19,6 +20,7 @@
 How to secure the Docker "pipeline"
 
 How to secure Docker containers themselves
+Note: 5 min
 
 
 ### Security for Docker Images
@@ -61,7 +63,7 @@ How to secure Docker containers themselves
 ## Security *FROM* Docker
 
 How to contain Docker & containers?
-
+Note: 4 min
 
 ### Securing the Host itself
 * Dedicated OS
@@ -96,7 +98,7 @@ How to contain Docker & containers?
 ## Security BY Docker
 
 Leveraging Docker features for security
-
+Note: 2 min
 
 ### Leveraging Docker for Security
 * microservice -> reduced attack surface

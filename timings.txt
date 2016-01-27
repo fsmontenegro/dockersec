@@ -1,0 +1,25 @@
+Intro.MD:Note: 0.5 min
+Intro.MD:Note: 1 min
+Intro.MD:Note: 2 min
+Intro.MD:Note: 2 min
+Intro.MD:Note: 1 min
+Intro.MD:Note: 1 min
+Intro.MD:Note: 1 min
+
+DockerSecurity.MD:Note: 1.5 min
+DockerSecurity.MD:Note: 5 min
+DockerSecurity.MD:Note: 4 min
+DockerSecurity.MD:Note: 2 min
+
+
+WrapUp.MD:Note: 0.5 min
+WrapUp.MD:Note: 2 min
+WrapUp.MD:Note: 2 min
+WrapUp.MD:Note: 2 min
+
+
+27min
+---
+Introduction..:  8.5
+DockerSecurity: 12   min 
+WrapUp....... :  6.5 min

@@ -1,4 +1,5 @@
 # Wrapping Up
+Note: 0.5 min
 
 
 
@@ -15,10 +16,9 @@
 * Serverless Architecture?
   + AWS Lambda
   + Azure Service Fabric
-
+Note: 2 min
 
   ![](http://fsmontenegro.github.io/dockersec/images/unikernels.png)
-
 
 
 
@@ -35,6 +35,7 @@
   + watch for outbound traffic <!-- .element: class="fragment" data-fragment-index="3" -->
   + keep up to date (news!) <!-- .element: class="fragment" data-fragment-index="3" -->
   + rethink approach ("cattle, not pets") <!-- .element: class="fragment" data-fragment-index="3" -->
+Note: 2 min
 
 
 ### Docker all over
@@ -82,3 +83,4 @@ Websites:
   * [RunC](https://runc.io/) - Open Container Initiative
 
 </small>
+Note: 2 min
