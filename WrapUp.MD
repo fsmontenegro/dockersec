@@ -1,3 +1,7 @@
+# Wrapping Up
+
+
+
 ### Looking at the Future
 
 * Containers exist in a continuum of options.
@@ -20,17 +24,17 @@
 
 ### Wrapping up
 
-* Docker Security "Anti-Patterns"
-  + free-for-all (unrestricted containers in Prod)
-  + treating containers as servers
+* Docker Security "Anti-Patterns" <!-- .element: class="fragment" data-fragment-index="1" -->
+  + free-for-all (unrestricted containers in Prod) <!-- .element: class="fragment" data-fragment-index="1" -->
+  + treating containers as servers <!-- .element: class="fragment" data-fragment-index="1" -->
 
-* Recommendations for Security
-  + **Don't try to stop it!!!**
-  + recognize massive potential for disruption
-  + no agents on containers
-  + watch for outbound traffic
-  + keep up to date (news!)
-  + rethink approach ("cattle, not pets")
+* Recommendations for Security <!-- .element: class="fragment" data-fragment-index="2" -->
+  + **Don't try to stop it!!!** <!-- .element: class="fragment" data-fragment-index="2" -->
+  + recognize massive potential for disruption <!-- .element: class="fragment" data-fragment-index="2" -->
+  + no agents on containers <!-- .element: class="fragment" data-fragment-index="3" -->
+  + watch for outbound traffic <!-- .element: class="fragment" data-fragment-index="3" -->
+  + keep up to date (news!) <!-- .element: class="fragment" data-fragment-index="3" -->
+  + rethink approach ("cattle, not pets") <!-- .element: class="fragment" data-fragment-index="3" -->
 
 
 ### Docker all over
