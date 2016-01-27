@@ -100,6 +100,7 @@ Note: 4 min
 Leveraging Docker features for security
 Note: 2 min
 
+
 ### Leveraging Docker for Security
 * microservice -> reduced attack surface
 * enforce content trust to protect production
